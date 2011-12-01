@@ -24,13 +24,7 @@
 
 # StackSet
 
-    Workspace  { 0*}   { 1 }   { 2 }   { 3 }
-
-    Windows    [1      []      [3*     [6*]
-               ,2*]            ,4
-                               ,5]
-
-    Xinerama    2               1
+![StackSet](StackSet.png)
 
 [xmonad.org/xmonad-docs/xmonad/XMonad-StackSet.html](http://xmonad.org/xmonad-docs/xmonad/XMonad-StackSet.html)
 
