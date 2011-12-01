@@ -1,3 +1,4 @@
-The showoff slides for my xmonad lightning talk
+The [showoff](https://github.com/schacon/showoff) slides for my [xmonad](http://www.xmonad.org/) lightning talk
 
-Lambda Lounge, Dec 1, 2011 http://wwww.lambdalounge.org/
+[Lambda Lounge](http://wwww.lambdalounge.org/) - Dec 1, 2011 
+
